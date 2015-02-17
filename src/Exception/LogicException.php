@@ -2,6 +2,6 @@
 
 namespace Madapaja\TwigModule\Exception;
 
-class TemplateNotFound extends LogicException
+class LogicException extends \LogicException
 {
 }
